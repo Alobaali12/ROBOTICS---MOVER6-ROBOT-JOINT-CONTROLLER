@@ -1,4 +1,4 @@
-# A Joint Controller for a Mover 6 robot written in C++ & MATLAB
+# A Joint Controller for a MOVER6 6 robot written in C++ & MATLAB
 
 # MATLAB:
 % Authors: Ali Mohamed and Elion Selko
