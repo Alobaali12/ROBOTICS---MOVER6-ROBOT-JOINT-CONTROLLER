@@ -1,5 +1,8 @@
 # A Joint Controller for a MOVER6 6 robot written in C++ & MATLAB
 
+# System Architecture
+![Picture1](https://github.com/user-attachments/assets/dcf0b8d6-2417-47a5-af5d-9f5cd0c495f8)
+
 # MATLAB:
 % Authors: Ali Mohamed and Elion Selko
 % Code Description: This script takes a user defined end effector translation and
