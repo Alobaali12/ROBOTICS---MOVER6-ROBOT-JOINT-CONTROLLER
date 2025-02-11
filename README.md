@@ -29,3 +29,9 @@ The implementation follows an Object-Oriented Programming (OOP) architecture wit
 `Joint` classes, each encapsulating their respective attributes and methods.
 Various operational flags can be toggled, such as selecting between relative or trapezoidal velocity motion
 profiles.
+
+
+For more details please refer to the attached technical report. 
+
+
+Thank you. 
